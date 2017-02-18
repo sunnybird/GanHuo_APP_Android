@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GanHuo</string>
+    <string name="login_username">User Name (default test)</string>
+    <string name="login_passwd">Password (default test)</string>
+    <string name="login_submit">Login</string>
+    <string name="login_dialog_title">Login......</string>
+    <string name="login_dialog_conent">i am logining...</string>
+    <string name="login_username_error">User Not Exist</string>
+    <string name="login_passwd_error">the user and the passwprd not match</string>
+</resources>
